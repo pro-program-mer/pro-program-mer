@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Satvik Yadav
 
-<!--
-**pro-program-mer/pro-program-mer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engineering Student | Aspiring Software Engineer  
+💻 Strong foundation in Python, C, and C++  
+🎯 Goal: Secure a stable software role 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+I am an engineering student with a strong interest in **programming, problem-solving, and core computer science concepts**.  
+I enjoy writing clean, efficient code and continuously improving my skills through **DSA practice and hands-on projects**.
+
+I believe in **learning by building and solving**, and my repositories reflect my journey as a growing software engineer.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming Languages**
+- 🐍 Python (DSA, scripting, basic OOP)
+- 💻 C (core concepts, pointers, arrays, functions)
+- ⚙️ C++ (DSA, OOP concepts, STL basics)
+
+**Core Concepts**
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Problem Solving & Logical Thinking
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+
+---
+
+## 📂 What You'll Find on My GitHub
+- 📌 **DSA Practice** (Arrays, Strings, Recursion, etc.)
+- 🧪 **C & C++ Programs** (concept-wise implementation)
+- 🛠️ **Python Mini Projects**
+- 📘 Well-structured repositories with clear README files
+
+---
+
+## 🌱 Currently Learning
+- Advanced Data Structures
+- Competitive Programming
+- Backend & Database fundamentals
+- Writing optimized and scalable code
+
+---
+
+## 🚀 Goals
+- Crack technical interviews with strong DSA skills  
+- Build real-world projects to strengthen my resume  
+- Get industry experience and pursue higher studies abroad  
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: *https://www.linkedin.com/in/pro-program-mer/*
+- 📧 Email: *satvk.24.yadav@gmail.com*
+
+---
+
+⭐ Feel free to explore my repositories and follow my coding journey!
